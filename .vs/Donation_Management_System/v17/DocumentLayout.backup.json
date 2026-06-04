@@ -1,0 +1,1002 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\managecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\managecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminoperatesector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminoperatesector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminviewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminoperateadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminoperateadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminoperateadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminoperateadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteeroperatedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteeroperatedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteeroperatedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteeroperatedonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\forgotpwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donordeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donordeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\userdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\userdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donordeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donordeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\userdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\userdeleteself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerusedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerusedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\managecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\managecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminoperatesector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminoperatesector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminviewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\zakatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\zakatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\zakatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\zakatcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donorviewcampaigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorviewcampaigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donorviewcampaigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorviewcampaigns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donorviewdonationsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorviewdonationsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerviewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerviewsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerusedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerusedonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerviewcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\volunteerviewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewdonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\adminviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerviewsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerviewcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerviewcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donorviewdonationsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorviewdonationsector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donorupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\donation_management_system\\donorupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donorupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\donationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\donationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\volunteerupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\volunteerupdateself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|c:\\users\\islam\\desktop\\oop2_project_final\\donate_farah\\donation_management_system\\adminoperateadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D72320-5875-4836-9C90-E1014C58E532}|Donation_Management_System\\Donation_Management_System.csproj|solutionrelative:donation_management_system\\adminoperateadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Login.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Login.cs",
+              "RelativeToolTip": "Donation_Management_System\\Login.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:02:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VolunteerOperateDonor.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerOperateDonor.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerOperateDonor.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerOperateDonor.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerOperateDonor.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAH4BAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:10:40.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Donate.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Donate.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Donate.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Donate.cs",
+              "RelativeToolTip": "Donation_Management_System\\Donate.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:22:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Donate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Donate.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Donate.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Donate.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\Donate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:22:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminOperateSector.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminOperateSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateSector.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminOperateSector.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwHEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:18:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ManageCampaign.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ManageCampaign.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ManageCampaign.cs",
+              "RelativeToolTip": "Donation_Management_System\\ManageCampaign.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:27:17.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Feedback.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Feedback.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Feedback.cs",
+              "RelativeToolTip": "Donation_Management_System\\Feedback.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:45:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Signup.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Signup.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Signup.cs",
+              "RelativeToolTip": "Donation_Management_System\\Signup.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAnwFUAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:22:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPwd.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ForgotPwd.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ForgotPwd.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ForgotPwd.cs",
+              "RelativeToolTip": "Donation_Management_System\\ForgotPwd.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwF4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:44:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminViewAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewAdmin.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewAdmin.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewAdmin.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewAdmin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:38:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminOperateAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminOperateAdmin.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminOperateAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:31:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminOperateAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminOperateAdmin.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminOperateAdmin.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAmwE4BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:32:12.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Signup.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Signup.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Signup.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:01:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VolunteerOperateDonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerOperateDonor.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerOperateDonor.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerOperateDonor.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerOperateDonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:10:59.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPwd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ForgotPwd.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ForgotPwd.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ForgotPwd.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\ForgotPwd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T09:51:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VolunteerDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDashboardForm.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDashboardForm.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerDashboardForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvz0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:26:59.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Login.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Login.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:50:48.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonerDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonerDashboardForm.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonerDashboardForm.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonerDashboardForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0sAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:13:03.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DonerDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonerDashboardForm.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonerDashboardForm.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\DonerDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:12:48.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VolunteerDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDashboardForm.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDashboardForm.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:26:38.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dash.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Dash.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Dash.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Dash.cs",
+              "RelativeToolTip": "Donation_Management_System\\Dash.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA6wEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:05:59.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Program.cs",
+              "RelativeToolTip": "Donation_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:50:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DonorDeleteSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorDeleteSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonorDeleteSelf.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:51:38.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDeleteSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\UserDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\UserDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\UserDeleteSelf.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\UserDeleteSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:43:37.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VolunteerDeleteSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:37:24.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDeleteSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\UserDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\UserDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\UserDeleteSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\UserDeleteSelf.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:44:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VolunteerDeleteSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerDeleteSelf.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerDeleteSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:37:01.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DonorDeleteSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorDeleteSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorDeleteSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorDeleteSelf.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\DonorDeleteSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:49:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminUpdateSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminUpdateSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminUpdateSelf.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:31:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminUpdateSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminUpdateSelf.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminUpdateSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:32:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VolunteerUseDonation.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUseDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerUseDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUseDonation.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerUseDonation.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:12:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Dash.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Dash.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Dash.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\Dash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:05:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminOperateSector.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminOperateSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateSector.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminOperateSector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:31:17.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManageCampaign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ManageCampaign.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ManageCampaign.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ManageCampaign.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\ManageCampaign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:59:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminViewAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewAdmin.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewAdmin.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewAdmin.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:38:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ZakatCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ZakatCalculator.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ZakatCalculator.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ZakatCalculator.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\ZakatCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:46:24.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ZakatCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ZakatCalculator.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\ZakatCalculator.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\ZakatCalculator.cs",
+              "RelativeToolTip": "Donation_Management_System\\ZakatCalculator.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswJwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:46:20.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DonationHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonationHistory.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonationHistory.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonationHistory.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\DonationHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:43:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DonorViewCampaigns.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewCampaigns.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorViewCampaigns.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewCampaigns.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonorViewCampaigns.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:43:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Feedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Feedback.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\Feedback.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\Feedback.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:45:38.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DonorViewCampaigns.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewCampaigns.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorViewCampaigns.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewCampaigns.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\DonorViewCampaigns.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:44:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DonorViewDonationSector.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewDonationSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorViewDonationSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewDonationSector.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\DonorViewDonationSector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:45:09.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VolunteerViewDonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonation.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewDonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:15:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminViewDonation.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewDonation.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewDonation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:14:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VolunteerUpdateSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUpdateSelf.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerUpdateSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:11:53.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VolunteerViewSector.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewSector.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewSector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:16:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VolunteerViewDonor.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonor.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewDonor.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonor.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewDonor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:15:57.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VolunteerUseDonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUseDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerUseDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUseDonation.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerUseDonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:13:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "VolunteerViewCampaign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewCampaign.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewCampaign.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewCampaign.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewCampaign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:13:53.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VolunteerViewDonor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonor.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewDonor.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonor.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewDonor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:16:07.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminViewDonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewDonation.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewDonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:13:25.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminViewFeedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewFeedback.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewFeedback.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewFeedback.cs [Design]",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:34:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminViewFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewFeedback.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminViewFeedback.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminViewFeedback.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminViewFeedback.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:14:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VolunteerViewDonation.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonation.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewDonation.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewDonation.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewDonation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:14:55.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "VolunteerViewSector.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewSector.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewSector.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:16:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VolunteerViewCampaign.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewCampaign.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerViewCampaign.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerViewCampaign.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerViewCampaign.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:13:36.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DonorViewDonationSector.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewDonationSector.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorViewDonationSector.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorViewDonationSector.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonorViewDonationSector.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:45:05.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DonorUpdateSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorUpdateSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonorUpdateSelf.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:51:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DonorUpdateSelf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonorUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonorUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\project_run1\\farah_final\\Donate_farah\\Donation_Management_System\\DonorUpdateSelf.cs [Design]",
+              "RelativeToolTip": "..\\..\\project_run1\\farah_final\\Donate_farah\\Donation_Management_System\\DonorUpdateSelf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:53:19.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DonationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonationHistory.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\DonationHistory.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\DonationHistory.cs",
+              "RelativeToolTip": "Donation_Management_System\\DonationHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:43:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "VolunteerUpdateSelf.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "RelativeToolTip": "Donation_Management_System\\VolunteerUpdateSelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:11:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminOperateAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Donation_Management_System\\AdminOperateAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\islam\\Desktop\\oop2_project_final\\Donate_farah\\Donation_Management_System\\AdminOperateAdmin.Designer.cs",
+              "RelativeToolTip": "Donation_Management_System\\AdminOperateAdmin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:39:27.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

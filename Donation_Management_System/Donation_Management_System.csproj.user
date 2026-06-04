@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminOperateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminOperateSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUpdateSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Donate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonationHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonerDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonorDeleteSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonorUpdateSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonorViewCampaigns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DonorViewDonationSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCampaign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDeleteSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerDeleteSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerOperateDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerUpdateSelf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerUseDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerViewCampaign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerViewDonation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerViewDonor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VolunteerViewSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZakatCalculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

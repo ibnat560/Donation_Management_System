@@ -1,0 +1,756 @@
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\islam\OneDrive\Desktop\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\Donation_Management_System\Donation_Management_System\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Desktop\5th semester\c#_lab\Donation_Management_System_farah\Donation_Management_System_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\islam\Downloads\Donate_fa_final\Donate_farah_update\Donate_farah\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.AdminUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Dash.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Login.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.AdminUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Dash.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Donate.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonationHistory.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewCampaigns.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewDonationSector.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Feedback.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Login.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Signup.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerOperateDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUseDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewSector.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.ZakatCalculator.resources
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\project_run_final 3\project_run1\farah_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateVolunteer.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.AdminUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewSectors.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewVolun.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Dash.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Donate.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonationHistory.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewCampaigns.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewDonationSector.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Feedback.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Login.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Signup.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerOperateDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUseDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewSector.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.ZakatCalculator.resources
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\project_completed\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.AdminUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Dash.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Donate.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonationHistory.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonorDeleteSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewCampaigns.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewDonationSector.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Feedback.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ForgotPwd.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Login.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Signup.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.UserDeleteSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDashboardForm.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDeleteSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerOperateDonor.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUpdateSelf.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUseDonation.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewCampaign.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonation.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonor.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewSector.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.ZakatCalculator.resources
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Downloads\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.exe
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.deps.json
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.runtimeconfig.json
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.AssemblyReference.cache
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateAdmin.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminOperateSector.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.AdminUpdateSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewAdmin.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewDonation.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AdminViewFeedback.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Dash.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Donate.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonationHistory.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonerDashboardForm.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.DonorDeleteSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorUpdateSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewCampaigns.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.DonorViewDonationSector.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.Feedback.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ForgotPwd.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Login.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.ManageCampaign.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Properties.Resources.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.Signup.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.UserDeleteSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDashboardForm.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.VolunteerDeleteSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerOperateDonor.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUpdateSelf.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerUseDonation.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewCampaign.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonation.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewDonor.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.VolunteerViewSector.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\DonationManagementSystem.ZakatCalculator.resources
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.GenerateResource.cache
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfoInputs.cache
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.AssemblyInfo.cs
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation.082B5288.Up2Date
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\refint\Donation_Management_System.dll
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.pdb
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\Donation_Management_System.genruntimeconfig.cache
+C:\Users\Farah Ibnat\Desktop\oop2_project_finalModify (1)\oop2_project_final\Donate_farah\Donation_Management_System\obj\Debug\net8.0-windows\ref\Donation_Management_System.dll
